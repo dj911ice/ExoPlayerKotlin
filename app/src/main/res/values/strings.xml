@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExoPlayerKotlin</string>
+    <string name="jd_musicplayer">JD-MusicPlayer</string>
+    <string name="fireside_s">
+        https://s3.us-east-2.amazonaws.com/justinpdickerson.com/assets/Fireside.mp3
+    </string>
 </resources>
